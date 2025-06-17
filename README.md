@@ -7,8 +7,8 @@ A simple and responsive to-do list web app built to practice front-end developme
 
 ## 🚀 Technologies Used
 
-- **HTML**
-- **CSS**
+- **React**
+- **Tailwindcss**
 - **JavaScript**
 
 ## 📌 Features
