@@ -18,8 +18,6 @@ A simple and responsive to-do list web app built to practice front-end developme
 - 📱 Mobile responsive layout  
 - 🎯 Clean and simple UI
 
-## 📁 How to Use
+## 🌐 Live Demo
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/guifariadev/task-manager.git
+https://thetask-manager.netlify.app/
